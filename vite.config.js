@@ -14,4 +14,5 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
+  base: '/ReactPract_1/' 
 })
