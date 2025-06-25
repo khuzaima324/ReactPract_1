@@ -1,0 +1,2 @@
+# ReactPract_1
+Starting My react practice journey and This is my second react project , A bg Color Changing site, select the color option from the buttons or just enter the desire color in the input and the bg will change according to it
