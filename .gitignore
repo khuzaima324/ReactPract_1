@@ -1,0 +1,15 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore build output
+dist/
+
+# Ignore Vite cache
+.vite/
+
+# Ignore environment files (optional)
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
